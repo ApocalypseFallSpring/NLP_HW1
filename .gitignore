@@ -1,0 +1,25 @@
+# course data (place locally; not committed)
+nyt.csv
+ag.csv
+
+# local / generated
+progress.md
+.DS_Store
+*.docx
+*.zip
+report_template/
+
+code/data/
+code/outputs/
+code/embeddings/
+code/wheels/
+code/__pycache__/
+**/__pycache__/
+*.pyc
+*.pkl
+*.model
+*.npy
+
+# IDE
+.idea/
+.vscode/
